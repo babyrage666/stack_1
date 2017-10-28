@@ -2,7 +2,7 @@
 
 # Task
 
-'''template <typename T>
+```template <typename T>
 class stack
 {
 public:
@@ -15,9 +15,9 @@ private:
     size_t array_size_;
     size_t count_;
 };
-'''
+```
 
 # Output
-'''stack overflowed: adding new memory
+```stack overflowed: adding new memory
 killerstack is empty
-'''
+```
